@@ -9,7 +9,7 @@ public class Main {
         catalogue.addBook(secondbook);
 
         Books thirdbook = new Books("Shopping for a lover", "Doctor seun Olabode", "123-456-789", "Love");
-        catalogue.addBook(secondbook);
+        catalogue.addBook(thirdbook);
 
         catalogue.removeBook("Lovers Journal");
 
