@@ -26,7 +26,7 @@ public class LibraryCatalogue {
 
     }
 
-    public  void findBooks(){
+    public  void listBooks(){
         for(Books books : bookList){
             System.out.println("Title" + books.getTitle());
             System.out.println("Author" + books.getAuthor());
