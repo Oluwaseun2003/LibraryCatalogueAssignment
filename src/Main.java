@@ -5,10 +5,10 @@ public class Main {
         Books firstbook = new Books("How to know if someone's heart is with you and for you", "Deji Olabode", "978-978-594-137-1", "Love");
         catalogue.addBook(firstbook);
 
-        Books secondbook = new Books("Wanting to own", "Doctor seun Olabode", "123-456-789", "Love");
+        Books secondbook = new Books("Nibbles of wisdom", "Doctor seun Olabode", "123-456-789", "Love");
         catalogue.addBook(secondbook);
 
-        Books thirdbook = new Books("Shopping for a lover", "Doctor seun Olabode", "123-456-789", "Love");
+        Books thirdbook = new Books("Shopping for a lover", "Doctor seun Olabode", "104-998-264", "Love");
         catalogue.addBook(thirdbook);
 
         catalogue.removeBook("Lovers Journal");
